@@ -1,0 +1,13 @@
+.container {
+    border: 2px solid rgb(218, 218, 218);
+    padding: 20px 40px 200px;
+    max-width: 600px;
+}
+.container__image {
+    width: 250px;
+    margin: 0px 0px 0px 0;
+    float: right;
+}
+.container__text {
+    display: inline;
+}
