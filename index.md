@@ -6,6 +6,6 @@ layout: home
 ---
 
 {% capture details %}
-![une photo de mes chats]({{site.baseurl}}/img/zizoumia.jpg)
+[![une photo de mes chats]({{site.baseurl}}/img/zizoumia.jpg)]({{site.baseurl}}/img/zizoumia.jpg)
 {% endcapture %}
 {% capture summary %}Grande photo{% endcapture %}{% include details.html %}
