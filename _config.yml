@@ -30,6 +30,7 @@ github_username:  jihel-em
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 header_pages:
   - jekyll.md
   - posts.md

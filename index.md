@@ -8,4 +8,4 @@ layout: home
 {% capture details %}
 [![une photo de mes chats]({{site.baseurl}}/img/zizoumia.jpg)]({{site.baseurl}}/img/zizoumia.jpg)
 {% endcapture %}
-{% capture summary %}Grande photo{% endcapture %}{% include details.html %}
+{% capture summary %}Grande photo :smile_cat:{% endcapture %}{% include details.html %}
